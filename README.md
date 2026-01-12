@@ -2,7 +2,7 @@
 
 ### Engenharia de Computação | Foco em Dados & Infraestrutura
 
-Estou na metade da graduação em Engenharia de Computação na UFG e atualmente transicionando meu foco para **Dados e Infraestrutura**. Meu objetivo não é construir sistemas escaláveis e eficientes.
+Estou na metade da graduação em Engenharia de Computação na UFG e atualmente transicionando meu foco para **Dados e Infraestrutura**. Meu objetivo é construir sistemas escaláveis e eficientes.
 
 ---
 

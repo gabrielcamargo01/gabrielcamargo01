@@ -24,5 +24,8 @@ Minha tese atual é que o código é irrelevante sem uma infraestrutura sólida.
 ---
 
 ### 📫 Contato Profissional
-
+<div>
+  ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+  ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+</div>
 [https://www.linkedin.com/in/gabriel-camargo-71854525b/] | [camargog434@gmail.com]

@@ -1,16 +1,28 @@
-## Hi there 👋
+# Olá, sou o [Gabriel]
 
-<!--
-**gabrielcamargo01/gabrielcamargo01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Engenharia de Computação | Foco em Dados & Infraestrutura
 
-Here are some ideas to get you started:
+Estou na metade da graduação em Engenharia de Computação e atualmente transicionando meu foco para **Engenharia de Dados e DevOps**. Meu objetivo não é apenas escrever código, mas construir sistemas escaláveis e eficientes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Arsenal Técnico (O que eu realmente domino)
+
+* **Linguagens:** Python (Foco em análise e automação), C/C++ (Fundamentos de Engenharia).
+* **Dados & IA:** Pandas, NumPy, Scikit-learn (Estudando arquiteturas de modelos).
+* **Infraestrutura & Ferramentas:** Linux (Ubuntu/Debian), Git, Docker (Estudando).
+
+---
+
+### 🌱 Estudos Atuais
+
+Minha tese atual é que o código é irrelevante sem uma infraestrutura sólida. Por isso, estou aprofundando em:
+* Arquitetura de Microsserviços.
+* Pipelines de CI/CD.
+* Orquestração de Containers.
+
+---
+
+### 📫 Contato Profissional
+
+[https://www.linkedin.com/in/gabriel-camargo-71854525b/] | [camargog434@gmail.com]

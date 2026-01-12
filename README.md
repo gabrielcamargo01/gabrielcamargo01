@@ -1,12 +1,12 @@
-# Olá, sou o [Gabriel]
+# Olá, sou o Gabriel
 
 ### Engenharia de Computação | Foco em Dados & Infraestrutura
 
-Estou na metade da graduação em Engenharia de Computação e atualmente transicionando meu foco para **Engenharia de Dados e DevOps**. Meu objetivo não é apenas escrever código, mas construir sistemas escaláveis e eficientes.
+Estou na metade da graduação em Engenharia de Computação na UFG e atualmente transicionando meu foco para **Dados e Infraestrutura**. Meu objetivo não é construir sistemas escaláveis e eficientes.
 
 ---
 
-### 🛠️ Arsenal Técnico (O que eu realmente domino)
+### 🛠️ Arsenal Técnico
 
 * **Linguagens:** Python (Foco em análise e automação), C/C++ (Fundamentos de Engenharia).
 * **Dados & IA:** Pandas, NumPy, Scikit-learn (Estudando arquiteturas de modelos).
